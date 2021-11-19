@@ -1,0 +1,12 @@
+$ACCELERATOR:: PWFA
+{
+energy=1500.0;
+particles=0.5;
+beta_x=5.000000;
+beta_y=0.005000;
+emitt_x=0.887;
+emitt_y=0.020;
+sigma_z=5.0;
+charge_sign=-1;
+offset_y=0.0;
+}
